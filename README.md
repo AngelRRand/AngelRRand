@@ -1,6 +1,9 @@
 ### Hi there 👋
 <h1 align="center">Hi,I'm Horacio 👨🏽‍💻</h1>
-<h4 align="center">Full Stack, but lover of front end development</h4>
+<h4 align="center">Full Stack, but lover of FrontEnd development 🦦</h4>
+
+
+- 💬 Who I am? **I am a person fond of his work. Pending innovations and growing at all times. My attention is dedicated to web and mobile styles and animations**
 <!--
 **AngelRRand/AngelRRand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
