@@ -2,6 +2,8 @@
 
 <img align="center" src='https://i.postimg.cc/L6G0Dnmc/Web-Developer-MOBILEd-EVELOPER-Pixel-Art-Animations-Announcer.png'/>
 <h4 align="center">Full Stack, but lover of FrontEnd development 🦦</h4>
+
+
 - 💬 Who I am?
 **I am a person fond of his work. Pending innovations and growing at all times. My attention is dedicated to web and mobile styles and animations**
 
