@@ -3,33 +3,23 @@
 
 
 - 💬 Who I am? 
+<br/>
 **I am a person fond of his work. Pending innovations and growing at all times. My attention is dedicated to web and mobile styles and animations**
 
-- 🎠 What are my hobbies? 
+- 😄 What are my hobbies? 
+<br/>
 **I like to draw, animate, cook, clean and write. I exercise and sing simply for fun 🧘**
 
 - 🖥 Where can I see your projects? 
+<br/>
 **I'm working on a portfolio where you can see them all more comfortable 🐣**
 
 - 📬 How can you contact me? 
+<br/>
 **You can do it through my mail horacio27rodriguez_cba@hotmail.com**
 
 - 🌱 What are you studying? 
+<br/>
 **React Framer Motion, Three.js, TypeScript**
 
 
-
-<!--
-**AngelRRand/AngelRRand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
