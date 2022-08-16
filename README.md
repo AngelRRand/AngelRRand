@@ -20,13 +20,6 @@
 - 🌱 What are you studying?
 **React Framer Motion, Three.js, TypeScript**
 
-
-<h3 align="center">Other means of contact:</h3>
-<p align="center">
-<a href="https://www.linkedin.com/in/horacio-rodriguez-cba/" target="_blank" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/horacio-rodriguez-cba//" /></a>
-<a href="horacio27rodriguez_cba@hotmail.com" target="_blank" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Horacio27Rodriguez_cba@hotmail.com"/></a>
-</p>
-
 <div align="center">
 <h3 align="center">Languages and Tools</h3>
 
@@ -52,8 +45,15 @@
 ![Git Badge](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
+<h3 align="center">Contact me!:</h3>
+<p align="center">
+<a href="https://www.linkedin.com/in/horacio-rodriguez-cba/" target="_blank" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/horacio-rodriguez-cba//" /></a>
+<a href="horacio27rodriguez_cba@hotmail.com" target="_blank" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Horacio27Rodriguez_cba@hotmail.com"/></a>
+</p
+  
+<div>
+    <img align=top src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngelRRand&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515"/>
+    <img align=top src="https://github-readme-stats.vercel.app/api?username=AngelRRand&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515"/>
+<div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AngelRRand&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=AngelRRand&show_icons=true&count_private=true)
 
