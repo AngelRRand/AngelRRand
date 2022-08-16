@@ -21,8 +21,8 @@
 **React Framer Motion, Three.js, TypeScript**
 
 <div align="center">
-    <img align='top' height="200" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngelRRand&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515"/>
-    <img align='top' height="200" width="500"  src="https://github-readme-stats.vercel.app/api?username=AngelRRand&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515"/>
+    <img align='top' width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngelRRand&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515"/>
+    <img align='top'  width="400"  src="https://github-readme-stats.vercel.app/api?username=AngelRRand&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515"/>
 <div>
 
 <div align="center">
