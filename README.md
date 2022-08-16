@@ -21,9 +21,10 @@
 **React Framer Motion, Three.js, TypeScript**
 
 
-<h3 align="left">Other means of contact:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/horacio-rodriguez-cba/" target="_blank" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/horacio-rodriguez-cba//" /></a>
+<h3 align="center">Other means of contact:</h3>
+<p align="center">
+<a href="https://www.linkedin.com/in/horacio-rodriguez-cba/" target="_blank" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/horacio-rodriguez-cba//" /></a>
+<a href="horacio27rodriguez_cba@hotmail.com" target="_blank" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Horacio27Rodriguez_cba@hotmail.com"/></a>
 </p>
 
 <div align="center">
