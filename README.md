@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Horacio 👨🏽‍💻</h1>
 
-![banner-linkedin2](https://i.postimg.cc/HnDf6zD7/Web-Developer-MOBILEd-EVELOPER-Pixel-Art-Animations-Announcer-1.png)
+![banner-linkedin2](https://i.postimg.cc/D0j73qf7/Horacio-1.png)
 
 <h4 align="center">Full Stack, but lover of FrontEnd development 🦦</h4>
 
