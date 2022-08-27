@@ -1,8 +1,7 @@
-<h1 align="center">Hi, I'm Horacio 👨🏽‍💻</h1>
+<h1 align="center">Hi, I'm Horacio 🦦🏽‍💻</h1>
 
 ![banner-linkedin2](https://i.postimg.cc/hv6BWYhr/Horacio-2.png)
 
-<h4 align="center">Full Stack, but lover of FrontEnd development 🦦</h4>
 
 
 - 💬 Who I am?
