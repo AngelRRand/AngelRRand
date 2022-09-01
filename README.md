@@ -17,7 +17,7 @@
 **You can do it through my mail horacio27rodriguez_cba@hotmail.com**
 
 - 🌱 What are you studying?
-**Phyton, Java, Three.js, TypeScript**
+**Phyton, Java, Three.js, TypeScript, Kotlin**
 
 <div align="center">
     <img align='top' width="330" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngelRRand&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515"/>
@@ -40,6 +40,7 @@
 ![Material UI Badge](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
 ![Node JS Badge](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express JS Badge](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Vercel Badge](https://img.shields.io/badge/Vercel-100000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Heroku Badge](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ![Git Badge](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
