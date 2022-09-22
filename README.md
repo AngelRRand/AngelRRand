@@ -17,7 +17,7 @@
 **You can do it through my mail horacio27rodriguez_cba@hotmail.com**
 
 - 🌱 What are you studying?
-**Phyton, Java, Three.js, TypeScript, Kotlin, .Net**
+**Java, TypeScript, Kotlin**
 
 <div align="center">
     <img align='top' width="330" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngelRRand&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515"/>
