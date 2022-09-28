@@ -43,6 +43,7 @@
 ![Vercel Badge](https://img.shields.io/badge/Vercel-100000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Heroku Badge](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ![Git Badge](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![Firebase Badge](https://img.shields.io/badge/Firebase-CA4245?style=for-the-badge&logo=firebase&logoColor=white)
 
 </div>
 <h3 align="center">Contact me!:</h3>
