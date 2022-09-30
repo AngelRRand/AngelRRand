@@ -44,13 +44,16 @@
 ![Heroku Badge](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ![Git Badge](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Firebase Badge](https://img.shields.io/badge/Firebase-CA4245?style=for-the-badge&logo=firebase&logoColor=white)
-
+<br/>
+<img align='top' width="330" src="https://www.codewars.com/users/AngelRRand/badges/large"/>
 </div>
 <h3 align="center">Contact me!:</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/horacio-rodriguez-cba/" target="_blank" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/horacio-rodriguez-cba//" /></a>
 <a href="horacio27rodriguez_cba@hotmail.com" target="_blank" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Horacio27Rodriguez_cba@hotmail.com"/></a>
+
 </p
+
 <h4 align="center">:eyes: Visitor's :eyes:</h4>
 <p align="center"><img src="https://profile-counter.glitch.me/{AngelRRand}/count.svg" alt="Horacio :: Visitor's Count" /></p>
 
