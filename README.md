@@ -44,6 +44,7 @@
 ![Heroku Badge](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ![Git Badge](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Firebase Badge](https://img.shields.io/badge/Firebase-CA4245?style=for-the-badge&logo=firebase&logoColor=white)
+![Graph QL Badge](https://img.shields.io/badge/GraphQl-1572B6?style=for-the-badge&logo=graphql&logoColor=white)
 <br/>
 <img align='top' width="330" src="https://www.codewars.com/users/AngelRRand/badges/large"/>
 </div>
