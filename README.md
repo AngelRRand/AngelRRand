@@ -5,18 +5,23 @@
 
 
 - 💬 Who I am?
-**Who am I? I am a passionate individual dedicated to my work, constantly striving to stay at the forefront of new innovations. My focus is on web and mobile design, as well as creating captivating animations.**
+
+**I am a passionate individual dedicated to my work, constantly striving to stay at the forefront of new innovations. My focus is on web and mobile design, as well as creating captivating animations.**
 
 - 😄 What are my hobbies?
+
 **What are my hobbies? I enjoy a variety of creative pursuits, such as drawing, animation, cooking, cleaning, and writing. Additionally, I like to exercise and sing for pure enjoyment and relaxation. 🧘**
 
 - 🖥 Where can I see your projects?
-** I am currently in the process of developing a portfolio where all of my projects will be conveniently accessible. 🐣**
+
+**I am currently in the process of developing a portfolio where all of my projects will be conveniently accessible. 🐣**
 
 - 📬 How can you contact me?
+
 **Please feel free to reach out to me at my email address: horacio27rodriguez_cba@hotmail.com.**
 
 - 🌱 What are you studying?
+
 **Java, Kotlin**
 
 
