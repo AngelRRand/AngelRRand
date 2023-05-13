@@ -1,6 +1,6 @@
 <h1 align="center">Hii, I'm Horacio 🦦💻</h1>
 
-![banner-linkedin2](https://i.postimg.cc/hv6BWYhr/Horacio-2.png)
+![banner-linkedin2]([https://i.postimg.cc/hv6BWYhr/Horacio-2.png](https://i.postimg.cc/9fL7Y85M/Horacio-Rodriguez.png))
 
 
 
