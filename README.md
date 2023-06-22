@@ -53,6 +53,7 @@
 ![Graph QL Badge](https://img.shields.io/badge/GraphQl-1572B6?style=for-the-badge&logo=graphql&logoColor=white)
 ![Kotlin Badge](https://img.shields.io/badge/Kotlin-d92569?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Dart Badge](https://img.shields.io/badge/dart-6381cc?style=for-the-badge&logo=dart&logoColor=white)
+![Flutter Badge](https://img.shields.io/badge/flutter-39f8ed?style=for-the-badge&logo=flutter&logoColor=black)
 
 
 <br/>
