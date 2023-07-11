@@ -5,6 +5,10 @@
 
 **I am a passionate individual dedicated to my work, constantly striving to stay at the forefront of new innovations. My focus is on web and mobile design, as well as creating captivating animations.**
 
+<div display='flex'>
+    <img  width="330" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngelRRand&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=05122A"/>
+    <img  width="330" src="https://www.codewars.com/users/AngelRRand/badges/large"/>
+</div>
 
 ![HTML5 Badge](https://img.shields.io/badge/HTML5-05122A?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3 Badge](https://img.shields.io/badge/CSS3-05122A?style=for-the-badge&logo=css3&logoColor=white)
@@ -33,18 +37,11 @@
 ![Git Badge](https://img.shields.io/badge/GIT-05122A?style=for-the-badge&logo=git&logoColor=white)
 
 
-<div align="center">
-    <img align='top' width="330" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngelRRand&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515"/>
-    <img align='top'  width="400"  src="https://github-readme-stats.vercel.app/api?username=AngelRRand&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515"/>
-    <img align='top' width="330" src="https://www.codewars.com/users/AngelRRand/badges/large"/>
-</div>
-<h4 align="center">:eyes: Visitor's :eyes:</h4>
-<p align="center"><img src="https://profile-counter.glitch.me/{AngelRRand}/count.svg" alt="Horacio :: Visitor's Count" /></p>
-
-
 <h3 align="center">Contact me!:</h3>
-<a href="https://www.linkedin.com/in/horacio-rodriguez-cba/" target="_blank" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/horacio-rodriguez-cba//" /></a>
+<div align="center">
+    <a href="https://www.linkedin.com/in/horacio-rodriguez-cba/" target="_blank" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/horacio-rodriguez-cba//" /></a>
 <a href="horacio27rodriguez_cba@hotmail.com" target="_blank" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Horacio27Rodriguez_cba@hotmail.com"/></a>
+</div>
 
-<hr/>
 
+<img align="right" src="https://profile-counter.glitch.me/{AngelRRand}/count.svg" alt="Horacio :: Visitor's Count" />
