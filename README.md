@@ -7,7 +7,6 @@
 
 <div display='flex'>
     <img  width="330" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngelRRand&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=05122A"/>
-    <img  width="330" src="https://www.codewars.com/users/AngelRRand/badges/large"/>
 </div>
 
 ![HTML5 Badge](https://img.shields.io/badge/HTML5-05122A?style=for-the-badge&logo=html5&logoColor=white)
@@ -43,5 +42,7 @@
 <a href="horacio27rodriguez_cba@hotmail.com" target="_blank" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Horacio27Rodriguez_cba@hotmail.com"/></a>
 </div>
 
-
-<img align="right" src="https://profile-counter.glitch.me/{AngelRRand}/count.svg" alt="Horacio :: Visitor's Count" />
+<div>
+    <img align="left"  width="330" src="https://www.codewars.com/users/AngelRRand/badges/large"/>
+    <img align="right" src="https://profile-counter.glitch.me/{AngelRRand}/count.svg" alt="Horacio :: Visitor's Count" />
+</div>
