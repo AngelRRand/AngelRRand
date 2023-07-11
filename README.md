@@ -7,31 +7,31 @@
 **I am a passionate individual dedicated to my work, constantly striving to stay at the forefront of new innovations. My focus is on web and mobile design, as well as creating captivating animations.**
 
 
-![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind CSS Badge](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap Badge](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Material UI Badge](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
+![HTML5 Badge](https://img.shields.io/badge/HTML5-05122A?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3 Badge](https://img.shields.io/badge/CSS3-05122A?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS Badge](https://img.shields.io/badge/Tailwind_CSS-05122A?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap Badge](https://img.shields.io/badge/Bootstrap-05122A?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Material UI Badge](https://img.shields.io/badge/Material%20UI-05122A?style=for-the-badge&logo=mui&logoColor=white)
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React Badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React Navive](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
-![Redux Badge](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![Expo](https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-05122A?style=for-the-badge&logo=javascript&logoColor=white)
+![React Badge](https://img.shields.io/badge/React-05122A?style=for-the-badge&logo=react&logoColor=white)
+![React Navive](https://img.shields.io/badge/React_Native-05122A?style=for-the-badge&logo=react&logoColor=white)
+![React Router](https://img.shields.io/badge/React_Router-05122A?style=for-the-badge&logo=react-router&logoColor=white)
+![Redux Badge](https://img.shields.io/badge/Redux-05122A?style=for-the-badge&logo=redux&logoColor=white)
+![Expo](https://img.shields.io/badge/Expo-05122A?style=for-the-badge&logo=expo&logoColor=white)
 
-![Node JS Badge](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express JS Badge](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Firebase Badge](https://img.shields.io/badge/Firebase-CA4245?style=for-the-badge&logo=firebase&logoColor=white)
-![Graph QL Badge](https://img.shields.io/badge/GraphQl-1572B6?style=for-the-badge&logo=graphql&logoColor=white)
+![Node JS Badge](https://img.shields.io/badge/Node.js-05122A?style=for-the-badge&logo=node.js&logoColor=white)
+![Express JS Badge](https://img.shields.io/badge/Express.js-05122A?style=for-the-badge&logo=express&logoColor=white)
+![Firebase Badge](https://img.shields.io/badge/Firebase-05122A?style=for-the-badge&logo=firebase&logoColor=white)
+![Graph QL Badge](https://img.shields.io/badge/GraphQl-05122A?style=for-the-badge&logo=graphql&logoColor=white)
 
-![Kotlin Badge](https://img.shields.io/badge/Kotlin-d92569?style=for-the-badge&logo=kotlin&logoColor=white)
-![Dart Badge](https://img.shields.io/badge/dart-6381cc?style=for-the-badge&logo=dart&logoColor=white)
-![Flutter Badge](https://img.shields.io/badge/flutter-39f8ed?style=for-the-badge&logo=flutter&logoColor=black)
+![Kotlin Badge](https://img.shields.io/badge/Kotlin-05122A?style=for-the-badge&logo=kotlin&logoColor=white)
+![Dart Badge](https://img.shields.io/badge/dart-05122A?style=for-the-badge&logo=dart&logoColor=white)
+![Flutter Badge](https://img.shields.io/badge/flutter-05122A?style=for-the-badge&logo=flutter&logoColor=white)
 
 
-![Heroku Badge](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
-![Git Badge](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![Heroku Badge](https://img.shields.io/badge/Heroku-05122A?style=for-the-badge&logo=heroku&logoColor=white)
+![Git Badge](https://img.shields.io/badge/GIT-05122A?style=for-the-badge&logo=git&logoColor=white)
 
 
 <div align="center">
