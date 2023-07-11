@@ -42,6 +42,8 @@
 <a href="horacio27rodriguez_cba@hotmail.com" target="_blank" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Horacio27Rodriguez_cba@hotmail.com"/></a>
 </div>
 
+<hr>
+
 <div>
     <img align="left"  width="330" src="https://www.codewars.com/users/AngelRRand/badges/large"/>
     <img align="right" src="https://profile-counter.glitch.me/{AngelRRand}/count.svg" alt="Horacio :: Visitor's Count" />
