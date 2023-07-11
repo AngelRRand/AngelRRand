@@ -40,13 +40,10 @@
 
 <h3 align="center">Contact me!:</h3>
 <div align="center">
-    <a href="https://www.linkedin.com/in/horacio-rodriguez-cba/" target="_blank" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/horacio-rodriguez-cba//" /></a>
-<a href="horacio27rodriguez_cba@hotmail.com" target="_blank" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Horacio27Rodriguez_cba@hotmail.com"/></a>
+    <a href="https://www.linkedin.com/in/horacio-rodriguez-cba/" target="_blank" target="blank"><img src="https://img.shields.io/badge/LinkedIn-05122A?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/horacio-rodriguez-cba//" /></a>
+<a href="horacio27rodriguez_cba@hotmail.com" target="_blank" target="blank"><img src="https://img.shields.io/badge/Gmail-05122A?style=for-the-badge&logo=gmail&logoColor=white" alt="Horacio27Rodriguez_cba@hotmail.com"/></a>
 </div>
 
 <hr>
 
-<div>
-    <img align="left"  width="330" src="https://www.codewars.com/users/AngelRRand/badges/large"/>
-    <img align="right" src="https://profile-counter.glitch.me/{AngelRRand}/count.svg" alt="Horacio :: Visitor's Count" />
-</div>
+<img align="right" src="https://profile-counter.glitch.me/{AngelRRand}/count.svg" alt="Horacio :: Visitor's Count" />
