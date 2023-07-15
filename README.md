@@ -1,4 +1,4 @@
-<img alt="dsmark" align="right"  height="50%" width="50%" src="https://c.tenor.com/NzrqQHFBVz8AAAAj/kitty-transparent.gif">
+<img alt="dsmark" align="right"  height="45%" width="45%" src="https://media.tenor.com/V6L2jQFUqZwAAAAM/perro-perreando.gif">
 <h1>Hi, I'm Horacio </h1>
 
 💬 Who I am?
