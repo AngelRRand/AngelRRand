@@ -5,7 +5,6 @@
     <img  width="330" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngelRRand&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=ffffff&bg_color=120c01"/>
 </div>
 
-<br>
 
 ![HTML5 Badge](https://img.shields.io/badge/HTML5-120c01?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3 Badge](https://img.shields.io/badge/CSS3-120c01?style=for-the-badge&logo=css3&logoColor=white)
