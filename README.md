@@ -1,5 +1,4 @@
 <img alt="dsmark" align="right" height="45%" width="45%" src="https://c.tenor.com/NzrqQHFBVz8AAAAj/kitty-transparent.gif">
-<h1>Hi, I'm Hori </h1>
 
 <div display='flex'>
     <img  width="330" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngelRRand&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=ffffff&bg_color=120c01"/>
