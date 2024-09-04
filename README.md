@@ -32,7 +32,7 @@
 ![Git Badge](https://img.shields.io/badge/GIT-120c01?style=for-the-badge&logo=git&logoColor=white)
 
 
-<h3 align="center">Contact me!:</h3>
+<h3 align="center">Contact me!</h3>
 <div align="center">
     <a href="https://www.linkedin.com/in/horacio-rodriguez-cba/" target="_blank" target="blank"><img src="https://img.shields.io/badge/LinkedIn-120c01?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/horacio-rodriguez-cba//" /></a>
 <a href="horacio27rodriguez_cba@hotmail.com" target="_blank" target="blank"><img src="https://img.shields.io/badge/Gmail-120c01?style=for-the-badge&logo=gmail&logoColor=white" alt="Horacio27Rodriguez_cba@hotmail.com"/></a>
